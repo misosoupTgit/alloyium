@@ -9,7 +9,7 @@ displayName="${mod_name}"
 authors="${mod_authors}"
 description='''${mod_description}'''
 logoFile="logo.png"
-# Client rendering only — not required on dedicated servers
+# Client rendering only - not required on dedicated servers
 displayTest="IGNORE_SERVER_VERSION"
 
 [[dependencies.${mod_id}]]
