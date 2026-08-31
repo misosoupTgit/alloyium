@@ -12,3 +12,7 @@ scratch/
 .classpath
 .project
 .settings/
+
+# Local design / postmortem (not published)
+DESIGN_Alloyium_v2.md
+技術ポストモーテム.md
