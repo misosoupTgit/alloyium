@@ -25,7 +25,7 @@ public class Alloyium {
     public static boolean IS_ENABLED = false;
 
     public Alloyium() {
-        LOGGER.info("Alloyium {} — client config + R7 Iris bridge", "1.0.2");
+        LOGGER.info("Alloyium {} — client config + R7 Iris bridge", "1.0.0");
         ModLoadingContext.get().registerConfig(ModConfig.Type.CLIENT, AlloyiumConfig.SPEC);
         if (FMLEnvironment.dist == Dist.CLIENT) {
             AlloyiumClient.init();
