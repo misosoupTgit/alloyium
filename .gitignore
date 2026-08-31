@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+build/
+run/
+run-data/
+out/
+scratch/
+.cursor/
+*.iml
+.env*
+*.log
+.classpath
+.project
+.settings/
